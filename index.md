@@ -1,18 +1,6 @@
-# Welcome
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Programming Language
-
-* Java
-* Python
-* NodeJS
-* GoLang
-
-### Framework
-
-* Spring Boot
-* Flask
-* Django
-* ReactJS
-* Angular
-* ExpressJs
-* Go Gin
+layout: home
+---
